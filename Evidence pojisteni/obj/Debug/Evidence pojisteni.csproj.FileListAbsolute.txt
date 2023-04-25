@@ -1,0 +1,5 @@
+C:\Users\Marek\Documents\SharpDevelop Projects\Evidence pojisteni\Evidence pojisteni\bin\Debug\Evidence pojisteni.exe
+C:\Users\Marek\Documents\SharpDevelop Projects\Evidence pojisteni\Evidence pojisteni\bin\Debug\Evidence pojisteni.pdb
+C:\Users\Marek\Documents\SharpDevelop Projects\Evidence pojisteni\Evidence pojisteni\obj\Debug\Evidence pojisteni.exe
+C:\Users\Marek\Documents\SharpDevelop Projects\Evidence pojisteni\Evidence pojisteni\obj\Debug\Evidence pojisteni.pdb
+C:\Users\Marek\Documents\SharpDevelop Projects\Evidence pojisteni\Evidence pojisteni\obj\Debug\Evidence pojisteni.csprojResolveAssemblyReference.cache
